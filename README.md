@@ -1,5 +1,6 @@
 # Renato Alegre
-[![Discord](https://img.shields.io/badge/Discord-yokhen%238792-purple?style=social&logo=discord)]()
+[![Discord](https://img.shields.io/badge/Discord-yokhen%238792-%237289DA?logo=discord)]()
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-yokhen-orange?logo=stackoverflow)]()
 
 <a href="https://github.com/rarenatoe/rarenatoe">
   <img align="top" src="https://github-readme-stats-five-silk.vercel.app/api/top-langs/?username=rarenatoe&langs_count=10&layout=compact&hide_border=true&theme=merko" />
