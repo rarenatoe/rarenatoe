@@ -9,6 +9,5 @@ As a hobby, I create **Svelte** templates for various purposes, such as my popul
 Feel free to connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-renato--e--alegre-blue?logo=linkedin)](https://www.linkedin.com/in/renato-e-alegre/)
-[![Discord](https://img.shields.io/badge/Discord-yokhen%238792-%237289DA?logo=discord)](https://discord.gg/your-invite-link-here)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-ren-orange?logo=stackoverflow)](https://stackoverflow.com/users/1006201/ren)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-rarenatoe-FFDD00?logo=buymeacoffee)](https://buymeacoffee.com/rarenatoe)
